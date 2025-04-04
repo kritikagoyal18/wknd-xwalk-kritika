@@ -1906,25 +1906,6 @@
     ]
   },
   {
-    "id": "quote",
-    "fields": [
-       {
-         "component": "richtext",
-         "name": "quote",
-         "value": "",
-         "label": "Quote",
-         "valueType": "string"
-       },
-       {
-         "component": "text",
-         "valueType": "string",
-         "name": "author",
-         "label": "Author",
-         "value": ""
-       }
-     ]
-  },
-  {
     "id": "form-embed",
     "fields": [
       {
